@@ -1,0 +1,8 @@
+@media (max-width:575px){
+    .sideNavClose{
+        visibility: hidden;
+    }
+    .Content {
+        margin-left: 0px;
+    }
+}
